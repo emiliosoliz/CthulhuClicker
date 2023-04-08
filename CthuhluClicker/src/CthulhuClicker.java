@@ -78,7 +78,7 @@ public class CthulhuClicker {
         window.add(cthulhuPanel);
 
         // Artwork by Me 
-        ImageIcon cthulhu = new ImageIcon("C:\\Users\\Unbir\\Desktop\\Java Game\\CthuhluClicker\\res\\Cthulu.png");
+        ImageIcon cthulhu = new ImageIcon("res\\Cthulu.png");
 
 
         JButton cthulhuButton = new JButton();
